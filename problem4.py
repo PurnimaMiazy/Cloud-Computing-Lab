@@ -14,7 +14,7 @@ def hello():
  
   
     numbers.sort()
-    return " largest number from the given list is "+ str(numbers[len(numbers)-2])
+    return " 3rd largest number from the given list is "+ str(numbers[len(numbers)-2])
 
 
 if __name__ == '__main__':
